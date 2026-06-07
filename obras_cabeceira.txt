@@ -1,0 +1,28 @@
+===== CABECEIRA — Lista de Obras =====
+
+📖 LIVRO [ID: 0]
+Título    : Aula de Paradigmas
+Autor     : Atilio
+Progresso : 600/600 páginas
+[████████████████████] 100,0%
+Meta/dia  : 60 págs → ~0 dias restantes
+✅ Concluído!
+─────────────────────────────────────────────
+🎧 AUDIOBOOK [ID: 1]
+Título    : Aula de Paradigmas 
+Autor     : Atilio
+Progresso : 40/200000000 minutos
+[░░░░░░░░░░░░░░░░░░░░] 0,0%
+Meta/dia  : 120 min → ~1666667 dias restantes
+199999960 minutos restantes
+─────────────────────────────────────────────
+📚 MANGA [ID: 2]
+Título    : Aula de Paradigmas
+Autor     : Atilio
+Capítulo  : 20/142
+Volume    : 3/15
+[██░░░░░░░░░░░░░░░░░░] 14,1%
+122 capítulos restantes (13 volumes)
+─────────────────────────────────────────────
+
+Total: 3 | Concluídas: 1
